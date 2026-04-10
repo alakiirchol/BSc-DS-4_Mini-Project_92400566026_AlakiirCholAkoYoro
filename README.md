@@ -160,6 +160,3 @@ The comparison highlights the importance of evaluating model performance critica
 
 ---
 
-## ⭐ If you found this useful
-
-Give it a star on GitHub!
